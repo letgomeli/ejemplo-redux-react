@@ -15,7 +15,7 @@ const NavBar = () => {
 			className="d-inline-block align-text-top"/>
       Redux-React
     </a>
-		<div className="d-flex"> 
+    <div className="d-flex"> 
 			<div className="dropstart">
             <button
               className="btn btn-outline-danger dropdown-toggle mx-1"
